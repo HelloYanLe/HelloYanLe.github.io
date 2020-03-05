@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://helloyanle.github.io/</id>
     <title>Lucas的小站（Github+Gridea）</title>
-    <updated>2020-03-05T12:24:04.876Z</updated>
+    <updated>2020-03-05T12:52:21.630Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://helloyanle.github.io/"/>
     <link rel="self" href="https://helloyanle.github.io/atom.xml"/>
@@ -51,21 +51,31 @@
         <link href="https://helloyanle.github.io/post/multisim-dao-chu-shi-yan-shu-ju-dao-excel/">
         </link>
         <updated>2020-03-05T08:45:25.000Z</updated>
-        <content type="html"><![CDATA[<p>解决路径：必应+谷歌+问同学</p>
-<p>问同学：https://wenku.baidu.com/view/95e95f204b35eefdc8d3333b.html<br>
-Exporting from Grapher toExcelYou can export your simulation results toExcel, to use the data for further processing in a spreadsheet.   Note  This function is only available if you haveExcelinstalled on your computer.Complete the following steps to export simulation results to anExcelspreadsheet:</p>
-<pre><code>    SelectView»Grapher.
+        <summary type="html"><![CDATA[<h1 id="解决路径必应谷歌问同学">解决路径：必应+谷歌+问同学</h1>
+]]></summary>
+        <content type="html"><![CDATA[<h1 id="解决路径必应谷歌问同学">解决路径：必应+谷歌+问同学</h1>
+<!-- more -->
+<blockquote>
+<h2 id="问同学multisim仿真软件的使用">问同学：<a href="https://wenku.baidu.com/view/95e95f204b35eefdc8d3333b.html">MULTISIM仿真软件的使用</a></h2>
+</blockquote>
+<pre><code>    Exporting from Grapher toExcelYou can export your simulation results toExcel, to use the data for further processing in a spreadsheet.   
+    Note  This function is only available if you haveExcelinstalled on your computer.Complete the following steps to export simulation results to anExcelspreadsheet:
+
+    SelectView»Grapher.
     TheGrapherappears, showing the results of your simulation and/or analysis.
 
     SelectTools»Export toExcel.
-    TheSelect Tracesdialog box appears. The contents of this dialog box change depending on the traces that are found in the tab you have selected in theGrapher.   Note  You must select onegraph. If thetabis selected, this command will be disabled.
+    TheSelect Tracesdialog box appears. The contents of this dialog box change depending on the traces that are found in the tab you have selected in theGrapher.   
+    Note  You must select onegraph. If thetabis selected, this command will be disabled.
 
-    Use the checkboxes to select the traces you wish to export toExceland clickOK.
+    Use the checkboxes to select the traces you wish to export to Excel and click OK.
     Tip  Place cursors on the graph to limit the exported data to the data that is located between the cursors.
 
     A newExcelspreadsheet is created, with data from the x coordinates in column one and data from the y coordinates in column two.
 </code></pre>
-<p>bing+Google：</p>
+<blockquote>
+<h2 id="binggoogle">bing+Google：</h2>
+</blockquote>
 ]]></content>
     </entry>
     <entry>
@@ -74,7 +84,7 @@ Exporting from Grapher toExcelYou can export your simulation results toExcel, to
         <link href="https://helloyanle.github.io/post/ce-shi/">
         </link>
         <updated>2020-03-04T12:03:46.000Z</updated>
-        <content type="html"><![CDATA[<p>测试文本<br>
+        <content type="html"><![CDATA[<p>#测试文本<br>
 <a href="https://fehey.com/post/hve-notes-start/">小白教程1</a><br>
 <a href="https://sspai.com/post/54212">小白教程2</a><br>
 <a href="https://help.github.com/cn/github/writing-on-github/basic-writing-and-formatting-syntax">GitHub Help</a><br>
