@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://helloyanle.github.io/</id>
     <title>Lucas的小站（Github+Gridea）</title>
-    <updated>2020-03-05T05:20:00.872Z</updated>
+    <updated>2020-03-05T12:24:04.876Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://helloyanle.github.io/"/>
     <link rel="self" href="https://helloyanle.github.io/atom.xml"/>
@@ -10,6 +10,64 @@
     <logo>https://helloyanle.github.io/images/avatar.png</logo>
     <icon>https://helloyanle.github.io/favicon.ico</icon>
     <rights>All rights reserved 2020, Lucas的小站（Github+Gridea）</rights>
+    <entry>
+        <title type="html"><![CDATA[Multisim,PROTEL和Proteus的区别]]></title>
+        <id>https://helloyanle.github.io/post/multisimprotel-he-proteus-de-qu-bie/</id>
+        <link href="https://helloyanle.github.io/post/multisimprotel-he-proteus-de-qu-bie/">
+        </link>
+        <updated>2020-03-05T09:23:04.000Z</updated>
+        <content type="html"><![CDATA[<p><a href="http://www.labview.help/topic/101406">原文链接</a><br>
+　Multisim简介：<br>
+　　Multisim是美国国家仪器（NI）有限公司推出的以Windows为基础的仿真工具，适用于板级的模拟/数字电路板的设计工作。它包含了电路原理图的图形输入、电路硬件描述语言输入方式，具有丰富的仿真分析能力。</p>
+<p>Multisim有超强板级的模拟/数字电路板的设计工作。它包含了电路原理图的图形输入、电路硬件描述语言输入方式，具有丰富的仿真分析能力。高版本可以进行单片机等MCU的仿真。Multisim有实际元器件和虚拟元器件，它们之间根本差别在于：一种是与实际元器件的型号、参数值以及封装都相对应的元器件，在设计中选用此类器件，不仅可以使设计仿真与实际情况有良好的对应性，还可以直接将设计导出到Ultiboard中进行PCB的设计；虚拟元器件只能用于电路的仿真。</p>
+<p>PROTEL简介：<br>
+　　PROTEL是Altium公司在80年代末推出的EDA软件，在电子行业的CAD软件中，它当之无愧地排在众多EDA软件的前面，是电子设计者的首选软件，它较早就在国内开始使用，在国内的普及率也最高，有些高校的电子专业还专门开设了课程来学习它，几乎所有的电子公司都要用到它，许多大公司在招聘电子设计人才时在其条件栏上常会写着要求会使用PROTEL。</p>
+<p>PROTEL主要作为印制板自动布线工具使用，运行在DOS环境，对硬件的要求很低，在无硬盘286机的1M内存下就能运行，但它的功能也较少，只有电路原理图绘制与印制板设计功能，其印制板自动布线的布通率也低，而现今的PROTEL已发展到DXP 2004，是个庞大的EDA软件，完全安装有200多M，它工作在WINDOWS95环境下，是个完整的板级全方位电子设计系统，它包含了电路原理图绘制、模拟电路与数字电路混合信号仿真、多层印制电路板设计（包含印制电路板自动布线）、可编程逻辑器件设计、图表生成、电子表格生成、支持宏操作等功能，并具有Client/Server（客户/服务器）体系结构，</p>
+<p>同时还兼容一些其它设计软件的文件格式，如ORCAD，PSPICE，EXCEL等，其多层印制线路板的自动布线可实现高密度PCB的100%布通率。在国内PROTEL软件较易买到，有关PROTEL软件和使用说明的书也有很多，这为它的普及提供了基础。想更多地了解PROTEL的软件功能或者下载PROTEL99的试用版，可以在INTERNET上。</p>
+<p>Proteus简介：<br>
+　　Proteus是英国著名的EDA工具（仿真软件），从原理图布图、代码调试到单片机与外围电路协同仿真，一键切换到PCB设计，真正实现了从概念到产品的完整设计。是目前世界上唯一将电路仿真软件、PCB设计软件和虚拟模型仿真软件三合一的设计平台，其处理器模型支持8051、HC11、PIC10/12/16/18/24/30/DsPIC33、AVR、ARM、8086和MSP430等，2010年又增加了Cortex和DSP系列处理器，并持续增加其他系列处理器模型。在编译方面，它也支持IAR、Keil和MPLAB等多种编译器。</p>
+<p>Proteus功能：<br>
+　　1．原理布图</p>
+<p>2．PCB自动或人工布线</p>
+<p>3．SPICE电路仿真</p>
+<p>革命性的特点<br>
+　　1．互动的电路仿真</p>
+<p>用户甚至可以实时采用诸如RAM，ROM，键盘，马达，LED，LCD，AD/DA，部分SPI器件，部分IIC器件。</p>
+<p>2．仿真处理器及其外围电路</p>
+<p>可以仿真51系列、AVR、PIC、ARM、等常用主流单片机。还可以直接在基于原理图的虚拟原型上编程，再配合显示及输出，能看到运行后输入输出的效果。配合系统配置的虚拟逻辑分析仪、示波器等，Proteus建立了完备的电子设计开发环境。</p>
+<p>Multisim，PROTEL和Proteus的区别：三者的侧重点不一样<br>
+　　Multisim可以进行复杂模拟/数字电路的仿真、简单的PCB板设计、简单的单片机仿真</p>
+<p>PROTEL可以进行简单的模拟/数字电路的仿真、强大的PCB板设计</p>
+<p>Proteus可以进行直观的模拟/数字电路、单片机、ARM的仿真。也可以进行简单PCB板的设计。</p>
+<p>使用导航：</p>
+<p>要进行模拟/数字电路的精确、细微仿真使用Multisim； 要进行电路板PCB设计使用PROTEL； 编写程序使用Keil C51;</p>
+<p>require.async（［‘wkcommon:widget/ui/lib/sio/sio.js’］， function（sio） { var url = ‘https://cpro.baidustatic.com/cpro/ui/c.js’; sio.callByBrowser（ url， function （） { BAIDU_CLB_fillSlotAsync（‘u2845605’，‘cpro_u2845605’）; } ）; }）;</p>
+<p>要进行单片机仿真使用Proteus，仿真51系列单片机可以使用Keil C与Proteus联调（就是在Keil中运行程序时Proteus即可运行硬件仿真）</p>
+]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Multisim导出实验数据到Excel]]></title>
+        <id>https://helloyanle.github.io/post/multisim-dao-chu-shi-yan-shu-ju-dao-excel/</id>
+        <link href="https://helloyanle.github.io/post/multisim-dao-chu-shi-yan-shu-ju-dao-excel/">
+        </link>
+        <updated>2020-03-05T08:45:25.000Z</updated>
+        <content type="html"><![CDATA[<p>解决路径：必应+谷歌+问同学</p>
+<p>问同学：https://wenku.baidu.com/view/95e95f204b35eefdc8d3333b.html<br>
+Exporting from Grapher toExcelYou can export your simulation results toExcel, to use the data for further processing in a spreadsheet.   Note  This function is only available if you haveExcelinstalled on your computer.Complete the following steps to export simulation results to anExcelspreadsheet:</p>
+<pre><code>    SelectView»Grapher.
+    TheGrapherappears, showing the results of your simulation and/or analysis.
+
+    SelectTools»Export toExcel.
+    TheSelect Tracesdialog box appears. The contents of this dialog box change depending on the traces that are found in the tab you have selected in theGrapher.   Note  You must select onegraph. If thetabis selected, this command will be disabled.
+
+    Use the checkboxes to select the traces you wish to export toExceland clickOK.
+    Tip  Place cursors on the graph to limit the exported data to the data that is located between the cursors.
+
+    A newExcelspreadsheet is created, with data from the x coordinates in column one and data from the y coordinates in column two.
+</code></pre>
+<p>bing+Google：</p>
+]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[测试]]></title>
         <id>https://helloyanle.github.io/post/ce-shi/</id>
@@ -22,6 +80,7 @@
 <a href="https://help.github.com/cn/github/writing-on-github/basic-writing-and-formatting-syntax">GitHub Help</a><br>
 <a href="https://developer.github.com/apps/about-apps/">GitHub Developer</a></p>
 <p>Pat和Gitalk在说说</p>
+<p><a href="https://books.google.com/">GoogleBooks</a></p>
 ]]></content>
     </entry>
     <entry>
