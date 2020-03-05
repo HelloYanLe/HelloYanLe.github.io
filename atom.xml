@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://helloyanle.github.io/</id>
     <title>Lucas的小站（Github+Gridea）</title>
-    <updated>2020-03-05T13:15:56.403Z</updated>
+    <updated>2020-03-05T13:26:36.996Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://helloyanle.github.io/"/>
     <link rel="self" href="https://helloyanle.github.io/atom.xml"/>
@@ -74,16 +74,19 @@ Tip  Place cursors on the graph to limit the exported data to the data that is l
 ]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[测试]]></title>
+        <title type="html"><![CDATA[网站开发帮助文档链接]]></title>
         <id>https://helloyanle.github.io/post/ce-shi/</id>
         <link href="https://helloyanle.github.io/post/ce-shi/">
         </link>
         <updated>2020-03-04T12:03:46.000Z</updated>
-        <content type="html"><![CDATA[<p>#测试文本<br>
-<a href="https://fehey.com/post/hve-notes-start/">小白教程1</a><br>
-<a href="https://sspai.com/post/54212">小白教程2</a><br>
-<a href="https://help.github.com/cn/github/writing-on-github/basic-writing-and-formatting-syntax">GitHub Help</a><br>
+        <content type="html"><![CDATA[<p>#测试文本</p>
+<p><a href="https://fehey.com/post/hve-notes-start/">小白教程1</a></p>
+<p><a href="https://sspai.com/post/54212">小白教程2</a></p>
+<p><a href="https://help.github.com/cn/github/writing-on-github/basic-writing-and-formatting-syntax">GitHub Help</a><br>
 <a href="https://developer.github.com/apps/about-apps/">GitHub Developer</a></p>
+<p><a href="https://blog.csdn.net/witnessai1/article/details/52551362">Markdown语法手册</a></p>
+<p><a href="https://github.com/google/styleguide/blob/gh-pages/docguide/style.md">Google Markdown Guide</a></p>
+<p><a href="https://www.jianshu.com/p/84481d344a3f">简书Markdown编写规范</a></p>
 <p>Pat和Gitalk在说说</p>
 <p><a href="https://books.google.com/">GoogleBooks</a></p>
 ]]></content>
