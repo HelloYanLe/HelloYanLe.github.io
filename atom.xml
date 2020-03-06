@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://helloyanle.github.io/</id>
     <title>Lucas的小站（Github+Gridea）</title>
-    <updated>2020-03-06T09:10:52.379Z</updated>
+    <updated>2020-03-06T11:30:44.852Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://helloyanle.github.io/"/>
     <link rel="self" href="https://helloyanle.github.io/atom.xml"/>
@@ -10,6 +10,20 @@
     <logo>https://helloyanle.github.io/images/avatar.png</logo>
     <icon>https://helloyanle.github.io/favicon.ico</icon>
     <rights>All rights reserved 2020, Lucas的小站（Github+Gridea）</rights>
+    <entry>
+        <title type="html"><![CDATA[Arduino IDE for ESP8266]]></title>
+        <id>https://helloyanle.github.io/post/arduino-ide-for-esp8266/</id>
+        <link href="https://helloyanle.github.io/post/arduino-ide-for-esp8266/">
+        </link>
+        <updated>2020-03-06T10:10:16.000Z</updated>
+        <content type="html"><![CDATA[<h2 id="原文链接"><a href="https://www.windworkshop.cn/?p=758">原文链接</a></h2>
+<figure data-type="image" tabindex="1"><img src="https://helloyanle.github.io//post-images/1583489459102.jpg" alt="" loading="lazy"></figure>
+<h2 id="其他链接">其他链接：</h2>
+<p><a href="https://tttapa.github.io/ESP8266/Chap01%20-%20ESP8266.html">A Beginner's Guide to the ESP8266</a></p>
+<p><a href="https://www.jianshu.com/p/2c75432396d8">实验楼：7个Python爬虫实战项目教程</a></p>
+<p><a href="https://www.zhihu.com/question/29372574">知乎：Python 的练手项目有哪些值得推荐？（每日Python练习小题）</a></p>
+]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Python实战]]></title>
         <id>https://helloyanle.github.io/post/python-shi-zhan/</id>
@@ -91,7 +105,7 @@
 ]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[CMake 入门实战]]></title>
+        <title type="html"><![CDATA[CMake实战]]></title>
         <id>https://helloyanle.github.io/post/cmake-ru-men-shi-zhan/</id>
         <link href="https://helloyanle.github.io/post/cmake-ru-men-shi-zhan/">
         </link>
