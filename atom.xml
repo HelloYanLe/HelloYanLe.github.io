@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://helloyanle.github.io/</id>
     <title>Lucas的小站（Github+Gridea）</title>
-    <updated>2020-03-06T08:53:19.165Z</updated>
+    <updated>2020-03-06T08:59:41.689Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://helloyanle.github.io/"/>
     <link rel="self" href="https://helloyanle.github.io/atom.xml"/>
@@ -16,8 +16,9 @@
         <link href="https://helloyanle.github.io/post/python-shi-zhan/">
         </link>
         <updated>2020-03-06T07:26:07.000Z</updated>
-        <content type="html"><![CDATA[<p><a href="https://www.jianshu.com/p/b577a1655144">70个Python项目列表：</a><br>
---[]--1、【Python 图片转字符画】<br>
+        <content type="html"><![CDATA[<figure data-type="image" tabindex="1"><img src="https://helloyanle.github.io//post-images/1583485117299.jpg" alt="" loading="lazy"></figure>
+<h2 id="70个python项目列表"><a href="https://www.jianshu.com/p/b577a1655144">70个Python项目列表：</a></h2>
+<p>1、【Python 图片转字符画】<br>
 2、【200行Python代码实现2048】<br>
 3、【Python3 实现火车票查询工具】<br>
 4、【高德API+Python解决租房问题 】<br>
