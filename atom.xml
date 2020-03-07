@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://helloyanle.github.io/</id>
     <title>Lucas的小站（Github+Gridea）</title>
-    <updated>2020-03-06T11:32:19.994Z</updated>
+    <updated>2020-03-07T07:35:56.373Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://helloyanle.github.io/"/>
     <link rel="self" href="https://helloyanle.github.io/atom.xml"/>
@@ -11,31 +11,57 @@
     <icon>https://helloyanle.github.io/favicon.ico</icon>
     <rights>All rights reserved 2020, Lucas的小站（Github+Gridea）</rights>
     <entry>
+        <title type="html"><![CDATA[C/C++简明教程+实战]]></title>
+        <id>https://helloyanle.github.io/post/ccjian-ming-jiao-cheng-shi-zhan/</id>
+        <link href="https://helloyanle.github.io/post/ccjian-ming-jiao-cheng-shi-zhan/">
+        </link>
+        <updated>2020-03-07T07:33:40.000Z</updated>
+        <content type="html"><![CDATA[<p><img src="https://helloyanle.github.io//post-images/1583566525078.jpg" alt="" loading="lazy"><br>
+<a href="https://www.jianshu.com/p/bd442e75d0b7">C++简明教程</a></p>
+]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[LUA简明教程+实战]]></title>
+        <id>https://helloyanle.github.io/post/lua-jian-ming-jiao-cheng-shi-zhan/</id>
+        <link href="https://helloyanle.github.io/post/lua-jian-ming-jiao-cheng-shi-zhan/">
+        </link>
+        <updated>2020-03-07T02:34:16.000Z</updated>
+        <content type="html"><![CDATA[<h2 id="官网"><a href="http://www.lua.org/home.html">官网</a></h2>
+<figure data-type="image" tabindex="1"><img src="https://helloyanle.github.io//post-images/1583548733909.jpg" alt="" loading="lazy"></figure>
+<h2 id="其他链接">其他链接：</h2>
+<p><a href="https://www.jb51.net/article/55394.htm">脚本之家LUA简明教程</a></p>
+<p><a href="https://www.runoob.com/lua/lua-tutorial.html">菜鸟教程LUA</a></p>
+<p><a href="https://blog.csdn.net/tankweight/article/details/83038371?depth_1-utm_source=distribute.pc_relevant.none-task&amp;utm_source=distribute.pc_relevant.none-task">Ubuntu 18.04安装LUA</a></p>
+]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Arduino IDE for ESP8266]]></title>
         <id>https://helloyanle.github.io/post/arduino-ide-for-esp8266/</id>
         <link href="https://helloyanle.github.io/post/arduino-ide-for-esp8266/">
         </link>
         <updated>2020-03-06T10:10:16.000Z</updated>
-        <content type="html"><![CDATA[<h2 id="原文链接"><a href="https://www.windworkshop.cn/?p=758">原文链接</a></h2>
+        <content type="html"><![CDATA[<h2 id="店家给的链接"><a href="https://www.windworkshop.cn/?p=758">店家给的链接</a></h2>
 <figure data-type="image" tabindex="1"><img src="https://helloyanle.github.io//post-images/1583489459102.jpg" alt="" loading="lazy"></figure>
 <h2 id="其他链接">其他链接：</h2>
 <p><a href="https://tttapa.github.io/ESP8266/Chap01%20-%20ESP8266.html">A Beginner's Guide to the ESP8266</a></p>
-<p><a href="https://www.jianshu.com/p/2c75432396d8">实验楼：7个Python爬虫实战项目教程</a></p>
-<p><a href="https://www.zhihu.com/question/29372574">知乎：Python 的练手项目有哪些值得推荐？（每日Python练习小题）</a></p>
 ]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Python实战]]></title>
+        <title type="html"><![CDATA[Python简明教程+实战]]></title>
         <id>https://helloyanle.github.io/post/python-shi-zhan/</id>
         <link href="https://helloyanle.github.io/post/python-shi-zhan/">
         </link>
         <updated>2020-03-06T07:26:07.000Z</updated>
         <content type="html"><![CDATA[<figure data-type="image" tabindex="1"><img src="https://helloyanle.github.io//post-images/1583485117299.jpg" alt="" loading="lazy"></figure>
-<h2 id="其他链接">其他链接：</h2>
+<h2 id="教程">教程：</h2>
+<p><a href="https://www.jb51.net/article/70576.htm">脚本之家Python简明教程</a></p>
+<h2 id="实战">实战：</h2>
 <p><a href="https://www.shiyanlou.com/courses/?tag=Python&amp;fee=free&amp;sort=default&amp;category=%E5%85%A8%E9%83%A8">实验楼搜索页面</a></p>
+<p><a href="https://www.jianshu.com/p/2c75432396d8">实验楼：7个Python爬虫实战项目教程</a></p>
+<p><a href="https://www.zhihu.com/question/29372574">知乎：Python 的练手项目有哪些值得推荐？（每日Python练习小题）</a></p>
 <p><a href=""></a></p>
-<h2 id="70个python项目列表"><a href="https://www.jianshu.com/p/b577a1655144">70个Python项目列表：</a></h2>
-<p>1、【Python 图片转字符画】<br>
+<p><a href="https://www.jianshu.com/p/b577a1655144">70个Python项目列表：</a><br>
+1、【Python 图片转字符画】<br>
 2、【200行Python代码实现2048】<br>
 3、【Python3 实现火车票查询工具】<br>
 4、【高德API+Python解决租房问题 】<br>
