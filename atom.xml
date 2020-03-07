@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://helloyanle.github.io/</id>
     <title>Lucas的小站（Github+Gridea）</title>
-    <updated>2020-03-07T08:33:04.262Z</updated>
+    <updated>2020-03-07T09:23:51.807Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://helloyanle.github.io/"/>
     <link rel="self" href="https://helloyanle.github.io/atom.xml"/>
@@ -35,12 +35,17 @@
 ]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[NodeMCU]]></title>
+        <title type="html"><![CDATA[NodeMCU简明教程+实战]]></title>
         <id>https://helloyanle.github.io/post/arduino-ide-for-esp8266/</id>
         <link href="https://helloyanle.github.io/post/arduino-ide-for-esp8266/">
         </link>
         <updated>2020-03-06T10:10:16.000Z</updated>
         <content type="html"><![CDATA[<figure data-type="image" tabindex="1"><img src="https://helloyanle.github.io//post-images/1583489459102.jpg" alt="" loading="lazy"></figure>
+<h1 id="esp8266">ESP8266</h1>
+<p><a href="https://randomnerdtutorials.com/getting-started-with-esp8266-wifi-transceiver-review/">randomnerdtutorials--getting-started-with-esp8266</a></p>
+<p><a href="https://randomnerdtutorials.com/esp8266-web-server/">randomnerdtutorials--esp8266-web-server</a></p>
+<p><a href="https://maker.pro/esp8266/tutorial/esp8266-tutorial-how-to-control-anything-from-the-internet">maker.pro--esp8266-tutorial-how-to-control-anything-from-the-internet</a></p>
+<p><a href="https://so.csdn.net/so/search/s.do?q=NodeMCU&amp;t=blog&amp;o=new&amp;s=&amp;l=&amp;f=&amp;viparticle=">CSDN=NodeMCU</a></p>
 <h1 id="arduino-ide-for-esp8266">Arduino IDE for ESP8266</h1>
 <p><a href="https://www.windworkshop.cn/?p=758">店家给的链接</a></p>
 <p>其他链接：<br>
@@ -134,17 +139,6 @@
 68、【使用 Python 生成分形图片】<br>
 69、【Python 实现 Redis 异步客户端】<br>
 70、【Python 实现中文错别字高亮系统】</p>
-]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[CMake实战]]></title>
-        <id>https://helloyanle.github.io/post/cmake-ru-men-shi-zhan/</id>
-        <link href="https://helloyanle.github.io/post/cmake-ru-men-shi-zhan/">
-        </link>
-        <updated>2020-03-06T06:48:36.000Z</updated>
-        <content type="html"><![CDATA[<figure data-type="image" tabindex="1"><img src="https://helloyanle.github.io//post-images/1583485818566.jpg" alt="" loading="lazy"></figure>
-<h2 id="write-once-run-everywhere">“Write once, run everywhere”</h2>
-<p><a href="https://www.jianshu.com/p/6e6569ba2237">链接</a></p>
 ]]></content>
     </entry>
     <entry>
