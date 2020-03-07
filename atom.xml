@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://helloyanle.github.io/</id>
     <title>Lucas的小站（Github+Gridea）</title>
-    <updated>2020-03-07T07:35:56.373Z</updated>
+    <updated>2020-03-07T08:33:04.262Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://helloyanle.github.io/"/>
     <link rel="self" href="https://helloyanle.github.io/atom.xml"/>
@@ -35,15 +35,18 @@
 ]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Arduino IDE for ESP8266]]></title>
+        <title type="html"><![CDATA[NodeMCU]]></title>
         <id>https://helloyanle.github.io/post/arduino-ide-for-esp8266/</id>
         <link href="https://helloyanle.github.io/post/arduino-ide-for-esp8266/">
         </link>
         <updated>2020-03-06T10:10:16.000Z</updated>
-        <content type="html"><![CDATA[<h2 id="店家给的链接"><a href="https://www.windworkshop.cn/?p=758">店家给的链接</a></h2>
-<figure data-type="image" tabindex="1"><img src="https://helloyanle.github.io//post-images/1583489459102.jpg" alt="" loading="lazy"></figure>
-<h2 id="其他链接">其他链接：</h2>
-<p><a href="https://tttapa.github.io/ESP8266/Chap01%20-%20ESP8266.html">A Beginner's Guide to the ESP8266</a></p>
+        <content type="html"><![CDATA[<figure data-type="image" tabindex="1"><img src="https://helloyanle.github.io//post-images/1583489459102.jpg" alt="" loading="lazy"></figure>
+<h1 id="arduino-ide-for-esp8266">Arduino IDE for ESP8266</h1>
+<p><a href="https://www.windworkshop.cn/?p=758">店家给的链接</a></p>
+<p>其他链接：<br>
+<a href="https://tttapa.github.io/ESP8266/Chap01%20-%20ESP8266.html">A Beginner's Guide to the ESP8266</a></p>
+<h1 id="nodeflasher">NodeFlasher</h1>
+<p><a href="https://www.jianshu.com/nb/7000517">ST命令系列教程-简书</a></p>
 ]]></content>
     </entry>
     <entry>
