@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://helloyanle.github.io/</id>
     <title>Lucas的小站（Github+Gridea）</title>
-    <updated>2020-03-07T09:23:51.807Z</updated>
+    <updated>2020-03-07T09:48:26.075Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://helloyanle.github.io/"/>
     <link rel="self" href="https://helloyanle.github.io/atom.xml"/>
@@ -47,11 +47,14 @@
 <p><a href="https://maker.pro/esp8266/tutorial/esp8266-tutorial-how-to-control-anything-from-the-internet">maker.pro--esp8266-tutorial-how-to-control-anything-from-the-internet</a></p>
 <p><a href="https://so.csdn.net/so/search/s.do?q=NodeMCU&amp;t=blog&amp;o=new&amp;s=&amp;l=&amp;f=&amp;viparticle=">CSDN=NodeMCU</a></p>
 <h1 id="arduino-ide-for-esp8266">Arduino IDE for ESP8266</h1>
-<p><a href="https://www.windworkshop.cn/?p=758">店家给的链接</a></p>
-<p>其他链接：<br>
+<p><a href="https://www.windworkshop.cn/?p=758">店家给的链接</a><br>
+<a href="https://www.bilibili.com/video/av70115845?p=3">Arduino IDE开发ESP8266 系列 视频教程</a><br>
+其他链接：<br>
 <a href="https://tttapa.github.io/ESP8266/Chap01%20-%20ESP8266.html">A Beginner's Guide to the ESP8266</a></p>
+<p><a href="https://www.bilibili.com/video/av92794052">25元自制B站粉丝显示WiFi时钟</a></p>
 <h1 id="nodeflasher">NodeFlasher</h1>
-<p><a href="https://www.jianshu.com/nb/7000517">ST命令系列教程-简书</a></p>
+<p><a href="https://www.bilibili.com/video/av46436470">环境安装教学视频</a><br>
+<a href="https://www.jianshu.com/nb/7000517">ST命令系列教程-简书</a></p>
 ]]></content>
     </entry>
     <entry>
@@ -202,24 +205,6 @@ Tip  Place cursors on the graph to limit the exported data to the data that is l
 </li>
 </ul>
 <h2 id="binggoogle">bing+Google：</h2>
-]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[网站开发帮助文档链接]]></title>
-        <id>https://helloyanle.github.io/post/ce-shi/</id>
-        <link href="https://helloyanle.github.io/post/ce-shi/">
-        </link>
-        <updated>2020-03-04T12:03:46.000Z</updated>
-        <content type="html"><![CDATA[<p>#测试文本</p>
-<p><a href="https://fehey.com/post/hve-notes-start/">小白教程1</a></p>
-<p><a href="https://sspai.com/post/54212">小白教程2</a></p>
-<p><a href="https://help.github.com/cn/github/writing-on-github/basic-writing-and-formatting-syntax">GitHub Help</a><br>
-<a href="https://developer.github.com/apps/about-apps/">GitHub Developer</a></p>
-<p><a href="https://blog.csdn.net/witnessai1/article/details/52551362">Markdown语法手册</a></p>
-<p><a href="https://github.com/google/styleguide/blob/gh-pages/docguide/style.md">Google Markdown Guide</a></p>
-<p><a href="https://www.jianshu.com/p/84481d344a3f">简书Markdown编写规范</a></p>
-<p>Pat和Gitalk在说说</p>
-<p><a href="https://books.google.com/">GoogleBooks</a></p>
 ]]></content>
     </entry>
 </feed>
