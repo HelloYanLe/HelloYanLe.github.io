@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://helloyanle.github.io/</id>
     <title>Lucas的小站（Github+Gridea）</title>
-    <updated>2020-03-09T05:22:55.265Z</updated>
+    <updated>2020-03-10T03:38:16.503Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://helloyanle.github.io/"/>
     <link rel="self" href="https://helloyanle.github.io/atom.xml"/>
@@ -17,7 +17,8 @@
         </link>
         <updated>2020-03-07T07:33:40.000Z</updated>
         <content type="html"><![CDATA[<p><img src="https://helloyanle.github.io//post-images/1583566525078.jpg" alt="" loading="lazy"><br>
-<a href="https://www.jianshu.com/p/bd442e75d0b7">C++简明教程</a></p>
+<a href="https://www.jianshu.com/p/bd442e75d0b7">C++简明教程</a><br>
+<a href="https://blog.csdn.net/u014571355/category_2234649.html">每日一个C++小程序</a></p>
 ]]></content>
     </entry>
     <entry>
