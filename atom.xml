@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://helloyanle.github.io/</id>
     <title>Lucas的小站（Github+Gridea）</title>
-    <updated>2020-03-10T03:38:16.503Z</updated>
+    <updated>2020-03-12T05:37:03.951Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://helloyanle.github.io/"/>
     <link rel="self" href="https://helloyanle.github.io/atom.xml"/>
@@ -10,6 +10,43 @@
     <logo>https://helloyanle.github.io/images/avatar.png</logo>
     <icon>https://helloyanle.github.io/favicon.ico</icon>
     <rights>All rights reserved 2020, Lucas的小站（Github+Gridea）</rights>
+    <entry>
+        <title type="html"><![CDATA[Competitions]]></title>
+        <id>https://helloyanle.github.io/post/competitions/</id>
+        <link href="https://helloyanle.github.io/post/competitions/">
+        </link>
+        <updated>2020-03-11T06:02:34.000Z</updated>
+        <content type="html"><![CDATA[<p>智能车<br>
+&gt; PID：<br>
+速度环PI控制<br>
+角度环PD控制<br>
+&gt; FTM<br>
+&gt; 滤波算法<br>
+&gt; PIT中断</p>
+<p>电赛官方培训网：<br>
+<a href="https://bbs.nuedc-training.com.cn/forum.php?mod=viewthread&amp;tid=229&amp;fromuid=46730">电赛公开课：模拟电路基础知识讲座</a><br>
+<a href="https://www.nuedc-training.com.cn/index/video/details/course_id/66/1/1.html">电子设计基础</a></p>
+<p>摄像头：<br>
+分辨率120*188   K66芯片 分辨率太高处理时间会增大<br>
+像素点、行、场中断（初始化），像素时钟，8个数据端口，SDA、SCL通过IC配置寄存器<br>
+》通过DMA操作：<br>
+<a href="https://www.cnblogs.com/ranjiewen/p/6385564.html">大津法</a>:比较耗费时间，在出发之前设置一下就行</p>
+]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[智能车]]></title>
+        <id>https://helloyanle.github.io/post/zhi-neng-che/</id>
+        <link href="https://helloyanle.github.io/post/zhi-neng-che/">
+        </link>
+        <updated>2020-03-11T06:02:34.000Z</updated>
+        <content type="html"><![CDATA[<p>PID：<br>
+速度环PI控制<br>
+角度环PD控制<br>
+FTM<br>
+滤波算法<br>
+PIT中断</p>
+]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[C/C++简明教程+实战]]></title>
         <id>https://helloyanle.github.io/post/ccjian-ming-jiao-cheng-shi-zhan/</id>
