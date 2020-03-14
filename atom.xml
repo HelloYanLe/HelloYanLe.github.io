@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://helloyanle.github.io/</id>
     <title>Lucas的小站（Github+Gridea）</title>
-    <updated>2020-03-14T03:04:23.188Z</updated>
+    <updated>2020-03-14T08:38:05.503Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://helloyanle.github.io/"/>
     <link rel="self" href="https://helloyanle.github.io/atom.xml"/>
@@ -10,6 +10,37 @@
     <logo>https://helloyanle.github.io/images/avatar.png</logo>
     <icon>https://helloyanle.github.io/favicon.ico</icon>
     <rights>All rights reserved 2020, Lucas的小站（Github+Gridea）</rights>
+    <entry>
+        <title type="html"><![CDATA[OpenCV]]></title>
+        <id>https://helloyanle.github.io/post/opencv/</id>
+        <link href="https://helloyanle.github.io/post/opencv/">
+        </link>
+        <updated>2020-03-14T08:36:07.000Z</updated>
+        <content type="html"><![CDATA[<p><a href="http://c.biancheng.net/view/1093.html">C语言中文网</a></p>
+<p><a href="https://blog.csdn.net/qq_40179738/article/details/81074914">OpenCV-Python教程</a></p>
+]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[家伙什]]></title>
+        <id>https://helloyanle.github.io/post/jia-huo-shi/</id>
+        <link href="https://helloyanle.github.io/post/jia-huo-shi/">
+        </link>
+        <updated>2020-03-14T08:33:06.000Z</updated>
+        <content type="html"><![CDATA[<p><a href="https://baijiahao.baidu.com/s?id=1595381875193750696&amp;wfr=spider&amp;for=pc">世界三大厨刀详解，厉害了我的厨师！</a></p>
+<p><a href="https://search.smzdm.com/?c=home&amp;s=%E5%8E%A8%E5%88%80%E6%8E%A8%E8%8D%90&amp;v=a">什么值得买：厨刀</a></p>
+]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[数电 - - FPGA]]></title>
+        <id>https://helloyanle.github.io/post/shu-dian-fpga/</id>
+        <link href="https://helloyanle.github.io/post/shu-dian-fpga/">
+        </link>
+        <updated>2020-03-14T03:32:09.000Z</updated>
+        <content type="html"><![CDATA[<p><a href="https://www.stepfpga.com/doc/fpga_start">小脚丫STEP FPGA开源社区</a></p>
+<p><a href="https://hdlbits.01xz.net/wiki/Wire#">像菜鸟教程一样的硬件学习网站 - - HDLBits</a><br>
+<a href="https://zhuanlan.zhihu.com/c_1131528588117385216">HDLBits中文教程 - - 知乎</a></p>
+]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Competitions]]></title>
         <id>https://helloyanle.github.io/post/competitions/</id>
