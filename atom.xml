@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://helloyanle.github.io/</id>
     <title>Lucas的小站（Github+Gridea）</title>
-    <updated>2020-03-15T08:11:02.388Z</updated>
+    <updated>2020-03-16T08:30:14.624Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://helloyanle.github.io/"/>
     <link rel="self" href="https://helloyanle.github.io/atom.xml"/>
@@ -10,6 +10,41 @@
     <logo>https://helloyanle.github.io/images/avatar.png</logo>
     <icon>https://helloyanle.github.io/favicon.ico</icon>
     <rights>All rights reserved 2020, Lucas的小站（Github+Gridea）</rights>
+    <entry>
+        <title type="html"><![CDATA[OpenWRT]]></title>
+        <id>https://helloyanle.github.io/post/openwrt/</id>
+        <link href="https://helloyanle.github.io/post/openwrt/">
+        </link>
+        <updated>2020-03-16T08:17:45.000Z</updated>
+        <content type="html"><![CDATA[<h2 id="树莓派4openwrt固件"><a href="https://www.hkepc.com/forum/viewthread.php?fid=12&amp;tid=2523427&amp;page=1">树莓派4OpenWRT固件</a></h2>
+<h2 id="youtube树莓派4刷openwrt视频教程"><a href="https://www.youtube.com/watch?v=hvlWL2Y74e4">Youtube树莓派4刷OpenWRT视频教程</a></h2>
+<pre><code>固件及软件再G:盘
+</code></pre>
+<h2 id="openwrt校园网认证"><a href="https://www.right.com.cn/forum/thread-958200-1-1.html">OpenWRT校园网认证</a></h2>
+]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[树莓派4]]></title>
+        <id>https://helloyanle.github.io/post/shu-mei-pai-4/</id>
+        <link href="https://helloyanle.github.io/post/shu-mei-pai-4/">
+        </link>
+        <updated>2020-03-16T06:30:49.000Z</updated>
+        <content type="html"><![CDATA[<h3 id="树莓派常见问题"><a href="http://www.raspigeek.com/index.php?c=read&amp;id=147&amp;page=1">树莓派常见问题</a></h3>
+<h2 id="树莓派上手配置">树莓派上手配置</h2>
+<h3 id="通电只亮红灯绿灯不亮">通电只亮红灯，绿灯不亮</h3>
+<pre><code>1.官网下载最新版系统
+2.用DiskGenius彻底删除SD卡分区+格式化FAT32
+3.刷入系统
+</code></pre>
+<h3 id="1开机自动连接wifi需要能够在后台看到树莓派获得的ip地址">1.开机自动连接WIFI（需要能够在后台看到树莓派获得的IP地址）</h3>
+<h3 id="2使用putty登录树莓派">2.<a href="https://shumeipai.nxez.com/2013/09/07/using-putty-to-log-in-to-the-raspberry-pie.html">使用putty登录树莓派</a></h3>
+<h3 id="3树莓派4b切换国内源buster版本-更换pip为国内源">3.<a href="">树莓派4B切换国内源(buster版本)</a><a href="https://www.pisugar.net/20190715/"> | 更换pip为国内源</a></h3>
+<h3 id="3使用win10自带的远程连接">3.<a href="">使用Win10自带的远程连接</a></h3>
+<p><a href="https://www.vpser.net/manage/nano.html">nano编辑器使用方法</a></p>
+<h2 id="debian开启热点共享网络"><a href="https://leux.cn/doc/Debian%E4%B8%8A%E5%BC%80%E5%90%AF%E7%83%AD%E7%82%B9%E5%85%B1%E4%BA%AB%E7%BD%91%E7%BB%9C.html">Debian开启热点共享网络</a></h2>
+<h2 id="使用树莓派打造翻墙路由器"><a href="https://www.wonsikin.com/2016/12/02/%E4%BD%BF%E7%94%A8%E6%A0%91%E8%8E%93%E6%B4%BE%E6%89%93%E9%80%A0%E7%BF%BB%E5%A2%99%E8%B7%AF%E7%94%B1%E5%99%A8%EF%BC%9A%E4%BB%8E%E5%BC%80%E5%A7%8B%E5%88%B0%E6%94%BE%E5%BC%83/">使用树莓派打造翻墙路由器</a></h2>
+]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[算法]]></title>
         <id>https://helloyanle.github.io/post/suan-fa/</id>
@@ -26,7 +61,9 @@
         </link>
         <updated>2020-03-14T08:36:07.000Z</updated>
         <content type="html"><![CDATA[<p><a href="http://c.biancheng.net/view/1093.html">C语言中文网</a></p>
-<p><a href="https://blog.csdn.net/qq_40179738/article/details/81074914">OpenCV-Python教程</a></p>
+<p><a href="https://www.zhihu.com/question/26881367/answer/815156603">OpenCV教程+实战练习（C++ &amp; Python）知乎分享</a><br>
+<a href="https://www.cnblogs.com/Undo-self-blog/p/8423851.html">OpenCV-Python 中文教程</a><br>
+<a href="https://blog.csdn.net/qq_40179738/article/details/81074914">OpenCV-Python教程</a></p>
 ]]></content>
     </entry>
     <entry>
@@ -120,128 +157,6 @@
 <h1 id="nodeflasher">NodeFlasher</h1>
 <p><a href="https://www.bilibili.com/video/av46436470">环境安装教学视频</a><br>
 <a href="https://www.jianshu.com/nb/7000517">ST命令系列教程-简书</a></p>
-]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Python简明教程+实战]]></title>
-        <id>https://helloyanle.github.io/post/python-shi-zhan/</id>
-        <link href="https://helloyanle.github.io/post/python-shi-zhan/">
-        </link>
-        <updated>2020-03-06T07:26:07.000Z</updated>
-        <content type="html"><![CDATA[<figure data-type="image" tabindex="1"><img src="https://helloyanle.github.io//post-images/1583485117299.jpg" alt="" loading="lazy"></figure>
-<h2 id="教程">教程：</h2>
-<p><a href="https://www.jb51.net/article/70576.htm">脚本之家Python简明教程</a></p>
-<h2 id="实战">实战：</h2>
-<p><a href="https://www.shiyanlou.com/courses/?tag=Python&amp;fee=free&amp;sort=default&amp;category=%E5%85%A8%E9%83%A8">实验楼搜索页面</a></p>
-<p><a href="https://www.jianshu.com/p/2c75432396d8">实验楼：7个Python爬虫实战项目教程</a></p>
-<p><a href="https://www.zhihu.com/question/29372574">知乎：Python 的练手项目有哪些值得推荐？（每日Python练习小题）</a></p>
-<p><a href=""></a></p>
-<p><a href="https://www.jianshu.com/p/b577a1655144">70个Python项目列表：</a><br>
-1、【Python 图片转字符画】<br>
-2、【200行Python代码实现2048】<br>
-3、【Python3 实现火车票查询工具】<br>
-4、【高德API+Python解决租房问题 】<br>
-5、【Python3 色情图片识别】<br>
-6、【Python 破解验证码】<br>
-7、【Python实现简单的Web服务器】<br>
-8、【pygame开发打飞机游戏】<br>
-9、【Django 搭建简易博客】<br>
-10、【Python基于共现提取《釜山行》人物关系】<br>
-11、【基于scrapy爬虫的天气数据采集(python)】<br>
-12、【Flask 开发轻博客】<br>
-13、【Python3 图片隐写术】<br>
-14、【Python 实现简易 Shell】<br>
-15、【使用 Python 解数学方程】<br>
-16、【PyQt 实现简易浏览器】<br>
-17、【神经网络实现手写字符识别系统 】<br>
-18、【Python 实现简单画板】<br>
-19、【Python实现3D建模工具】<br>
-20、【NBA常规赛结果预测——利用Python进行比赛数据分析】<br>
-21、【神经网络实现人脸识别任务】<br>
-22、【Python文本解析器】<br>
-23、【Python3 &amp; OpenCV 视频转字符动画】<br>
-24、【Python3 实现淘女郎照片爬虫 】<br>
-25、【Python3实现简单的FTP认证服务器】<br>
-26、【基于 Flask 与 MySQL 实现番剧推荐系统】<br>
-27、【Python 实现端口扫描器】<br>
-28、【使用 Python 3 编写系列实用脚本】<br>
-29、【Python 实现康威生命游戏】<br>
-30、【川普撞脸希拉里(基于 OpenCV 的面部特征交换) 】<br>
-31、【Python 3 实现 Markdown 解析器】<br>
-32、【Python 气象数据分析 -- 《Python 数据分析实战》】<br>
-33、【Python实现键值数据库】<br>
-34、【k-近邻算法实现手写数字识别系统】<br>
-35、【ebay在线拍卖数据分析】<br>
-36、【Python 实现英文新闻摘要自动提取 】<br>
-37、【Python实现简易局域网视频聊天工具】<br>
-38、【基于 Flask 及爬虫实现微信娱乐机器人】<br>
-39、【Python实现Python解释器】<br>
-40、【Python3基于Scapy实现DDos】<br>
-41、【Python 实现密码强度检测器】<br>
-42、【使用 Python 实现深度神经网络】<br>
-43、【Python实现从excel读取数据并绘制成精美图像】<br>
-44、【人机对战初体验:Python基于Pygame实现四子棋游戏】<br>
-45、【Python3 实现可控制肉鸡的反向Shell】<br>
-46、【Python打造漏洞扫描器 】<br>
-47、【Python应用马尔可夫链算法实现随机文本生成】<br>
-48、【数独游戏的Python实现与破解】<br>
-49、【使用Python定制词云】<br>
-50、【Python开发简单计算器】<br>
-51、【Python 实现 FTP 弱口令扫描器】<br>
-52、【Python实现Huffman编码解压缩文件】<br>
-53、【Python实现Zip文件的暴力破解 】<br>
-54、【Python3 智能裁切图片】<br>
-55、【Python实现网站模拟登陆】<br>
-56、【给Python3爬虫做一个界面.妹子图网实战】<br>
-57、【Python 3 实现图片转彩色字符】<br>
-58、【自联想器的 Python 实现】<br>
-59、【Python 实现简单滤镜】<br>
-60、【Flask 实现简单聊天室】<br>
-61、【基于PyQt5 实现地图中定位相片拍摄位置】<br>
-62、【Python实现模板引擎】<br>
-63、【Python实现遗传算法求解n-queens问题】<br>
-64、【Python3 实现命令行动态进度条】<br>
-65、【Python 获取挂号信息并邮件通知】<br>
-66、【Python实现java web项目远端自动化更新部署】<br>
-67、【使用 Python3 编写 Github 自动周报生成器】<br>
-68、【使用 Python 生成分形图片】<br>
-69、【Python 实现 Redis 异步客户端】<br>
-70、【Python 实现中文错别字高亮系统】</p>
-]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Multisim,PROTEL和Proteus的区别]]></title>
-        <id>https://helloyanle.github.io/post/multisimprotel-he-proteus-de-qu-bie/</id>
-        <link href="https://helloyanle.github.io/post/multisimprotel-he-proteus-de-qu-bie/">
-        </link>
-        <updated>2020-03-05T09:23:04.000Z</updated>
-        <content type="html"><![CDATA[<p><a href="http://www.labview.help/topic/101406">原文链接</a><br>
-　Multisim简介：<br>
-　　Multisim是美国国家仪器（NI）有限公司推出的以Windows为基础的仿真工具，适用于板级的模拟/数字电路板的设计工作。它包含了电路原理图的图形输入、电路硬件描述语言输入方式，具有丰富的仿真分析能力。</p>
-<p>Multisim有超强板级的模拟/数字电路板的设计工作。它包含了电路原理图的图形输入、电路硬件描述语言输入方式，具有丰富的仿真分析能力。高版本可以进行单片机等MCU的仿真。Multisim有实际元器件和虚拟元器件，它们之间根本差别在于：一种是与实际元器件的型号、参数值以及封装都相对应的元器件，在设计中选用此类器件，不仅可以使设计仿真与实际情况有良好的对应性，还可以直接将设计导出到Ultiboard中进行PCB的设计；虚拟元器件只能用于电路的仿真。</p>
-<p>PROTEL简介：<br>
-　　PROTEL是Altium公司在80年代末推出的EDA软件，在电子行业的CAD软件中，它当之无愧地排在众多EDA软件的前面，是电子设计者的首选软件，它较早就在国内开始使用，在国内的普及率也最高，有些高校的电子专业还专门开设了课程来学习它，几乎所有的电子公司都要用到它，许多大公司在招聘电子设计人才时在其条件栏上常会写着要求会使用PROTEL。</p>
-<p>PROTEL主要作为印制板自动布线工具使用，运行在DOS环境，对硬件的要求很低，在无硬盘286机的1M内存下就能运行，但它的功能也较少，只有电路原理图绘制与印制板设计功能，其印制板自动布线的布通率也低，而现今的PROTEL已发展到DXP 2004，是个庞大的EDA软件，完全安装有200多M，它工作在WINDOWS95环境下，是个完整的板级全方位电子设计系统，它包含了电路原理图绘制、模拟电路与数字电路混合信号仿真、多层印制电路板设计（包含印制电路板自动布线）、可编程逻辑器件设计、图表生成、电子表格生成、支持宏操作等功能，并具有Client/Server（客户/服务器）体系结构，</p>
-<p>同时还兼容一些其它设计软件的文件格式，如ORCAD，PSPICE，EXCEL等，其多层印制线路板的自动布线可实现高密度PCB的100%布通率。在国内PROTEL软件较易买到，有关PROTEL软件和使用说明的书也有很多，这为它的普及提供了基础。想更多地了解PROTEL的软件功能或者下载PROTEL99的试用版，可以在INTERNET上。</p>
-<p>Proteus简介：<br>
-　　Proteus是英国著名的EDA工具（仿真软件），从原理图布图、代码调试到单片机与外围电路协同仿真，一键切换到PCB设计，真正实现了从概念到产品的完整设计。是目前世界上唯一将电路仿真软件、PCB设计软件和虚拟模型仿真软件三合一的设计平台，其处理器模型支持8051、HC11、PIC10/12/16/18/24/30/DsPIC33、AVR、ARM、8086和MSP430等，2010年又增加了Cortex和DSP系列处理器，并持续增加其他系列处理器模型。在编译方面，它也支持IAR、Keil和MPLAB等多种编译器。</p>
-<p>Proteus功能：<br>
-　　1．原理布图</p>
-<p>2．PCB自动或人工布线</p>
-<p>3．SPICE电路仿真</p>
-<p>革命性的特点<br>
-　　1．互动的电路仿真</p>
-<p>用户甚至可以实时采用诸如RAM，ROM，键盘，马达，LED，LCD，AD/DA，部分SPI器件，部分IIC器件。</p>
-<p>2．仿真处理器及其外围电路</p>
-<p>可以仿真51系列、AVR、PIC、ARM、等常用主流单片机。还可以直接在基于原理图的虚拟原型上编程，再配合显示及输出，能看到运行后输入输出的效果。配合系统配置的虚拟逻辑分析仪、示波器等，Proteus建立了完备的电子设计开发环境。</p>
-<p>Multisim，PROTEL和Proteus的区别：三者的侧重点不一样<br>
-　　Multisim可以进行复杂模拟/数字电路的仿真、简单的PCB板设计、简单的单片机仿真</p>
-<p>PROTEL可以进行简单的模拟/数字电路的仿真、强大的PCB板设计</p>
-<p>Proteus可以进行直观的模拟/数字电路、单片机、ARM的仿真。也可以进行简单PCB板的设计。</p>
-<p>使用导航：</p>
-<p>要进行模拟/数字电路的精确、细微仿真使用Multisim； 要进行电路板PCB设计使用PROTEL； 编写程序使用Keil C51;</p>
-<p>require.async（［‘wkcommon:widget/ui/lib/sio/sio.js’］， function（sio） { var url = ‘https://cpro.baidustatic.com/cpro/ui/c.js’; sio.callByBrowser（ url， function （） { BAIDU_CLB_fillSlotAsync（‘u2845605’，‘cpro_u2845605’）; } ）; }）;</p>
-<p>要进行单片机仿真使用Proteus，仿真51系列单片机可以使用Keil C与Proteus联调（就是在Keil中运行程序时Proteus即可运行硬件仿真）</p>
 ]]></content>
     </entry>
 </feed>
