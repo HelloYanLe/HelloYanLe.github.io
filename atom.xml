@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://helloyanle.github.io/</id>
     <title>Lucas的小站（Github+Gridea）</title>
-    <updated>2020-03-19T03:49:21.571Z</updated>
+    <updated>2020-03-19T14:23:08.195Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://helloyanle.github.io/"/>
     <link rel="self" href="https://helloyanle.github.io/atom.xml"/>
@@ -76,7 +76,11 @@
         <link href="https://helloyanle.github.io/post/opencv/">
         </link>
         <updated>2020-03-14T08:36:07.000Z</updated>
-        <content type="html"><![CDATA[<p><a href="http://c.biancheng.net/view/1093.html">C语言中文网</a></p>
+        <content type="html"><![CDATA[<p>学习路程：<br>
+入门 | 知道API作用<br>
+进阶 | 不看文档操作API开发<br>
+高手 | API数学原理，线代、数字图像处理学起来</p>
+<p><a href="http://c.biancheng.net/view/1093.html">C语言中文网</a></p>
 <p><a href="https://www.zhihu.com/question/26881367/answer/815156603">OpenCV教程+实战练习（C++ &amp; Python）知乎分享</a><br>
 <a href="https://www.cnblogs.com/Undo-self-blog/p/8423851.html">OpenCV-Python 中文教程</a><br>
 <a href="https://blog.csdn.net/qq_40179738/article/details/81074914">OpenCV-Python教程</a></p>
