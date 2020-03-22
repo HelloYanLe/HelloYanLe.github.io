@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://helloyanle.github.io/</id>
     <title>Lucas的小站（Github+Gridea）</title>
-    <updated>2020-03-19T14:23:08.195Z</updated>
+    <updated>2020-03-22T05:26:59.025Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://helloyanle.github.io/"/>
     <link rel="self" href="https://helloyanle.github.io/atom.xml"/>
@@ -76,10 +76,12 @@
         <link href="https://helloyanle.github.io/post/opencv/">
         </link>
         <updated>2020-03-14T08:36:07.000Z</updated>
-        <content type="html"><![CDATA[<p>学习路程：<br>
+        <content type="html"><![CDATA[<p><a href="https://blog.csdn.net/shuiyixin/article/details/85648310">OpenCV学习之路（附加资料分享）</a>：<br>
 入门 | 知道API作用<br>
 进阶 | 不看文档操作API开发<br>
 高手 | API数学原理，线代、数字图像处理学起来</p>
+<p><a href="https://gitee.com/LucasYan/OpenCV-Python-Tutorial">OpenCV-Python图像处理教程</a></p>
+<p><a href="https://gitee.com/LucasYan/ImageProcessing100Wen/tree/master">图像处理 100 问！！</a></p>
 <p><a href="http://c.biancheng.net/view/1093.html">C语言中文网</a></p>
 <p><a href="https://www.zhihu.com/question/26881367/answer/815156603">OpenCV教程+实战练习（C++ &amp; Python）知乎分享</a><br>
 <a href="https://www.cnblogs.com/Undo-self-blog/p/8423851.html">OpenCV-Python 中文教程</a><br>
@@ -141,6 +143,7 @@
 <a href="https://www.jianshu.com/p/bd442e75d0b7">C++简明教程</a><br>
 <a href="https://blog.csdn.net/u014571355/category_2234649.html">每日一个C++小程序</a><br>
 <a href="http://wiki.opencv.org.cn/index.php/Main%E5%87%BD%E6%95%B0%E5%8F%82%E6%95%B0argc%EF%BC%8Cargv%E8%AF%B4%E6%98%8E">C/C++语言中的main函数参数argc，argv说明</a></p>
+<p><a href="http://wiki.opencv.org.cn/index.php/Main%E5%87%BD%E6%95%B0%E5%8F%82%E6%95%B0argc%EF%BC%8Cargv%E8%AF%B4%E6%98%8E">Main函数参数argc，argv说明</a></p>
 ]]></content>
     </entry>
     <entry>
