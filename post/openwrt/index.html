@@ -2,11 +2,11 @@
   <head>
     <meta charset="utf-8" />
 <meta name="viewport" content="width=device-width, initial-scale=1" />
-<title>OpenWRT | Lucas的小站（Github+Gridea）</title>
-<link rel="shortcut icon" href="https://helloyanle.github.io//favicon.ico?v=1584944579907">
+<title>树莓派4 + OpenWRT | Lucas的小站（Github+Gridea）</title>
+<link rel="shortcut icon" href="https://helloyanle.github.io//favicon.ico?v=1584964701224">
 <link href="https://cdn.jsdelivr.net/npm/remixicon@2.3.0/fonts/remixicon.css" rel="stylesheet">
 <link rel="stylesheet" href="https://helloyanle.github.io//styles/main.css">
-<link rel="alternate" type="application/atom+xml" title="OpenWRT | Lucas的小站（Github+Gridea） - Atom Feed" href="https://helloyanle.github.io//atom.xml">
+<link rel="alternate" type="application/atom+xml" title="树莓派4 + OpenWRT | Lucas的小站（Github+Gridea） - Atom Feed" href="https://helloyanle.github.io//atom.xml">
 <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Droid+Serif:400,700">
 
 
@@ -16,7 +16,13 @@ Youtube树莓派4刷OpenWRT视频教程
 固件及软件再G:盘
 
 OpenWRT校园网认证
-..." />
+搬瓦工VPS配置
+1.VPS配置
+2.Google BBR加速
+3.多用户配置
+VPS退款1
+VPS退款2
+免费SS..." />
     <meta name="keywords" content="" />
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/KaTeX/0.10.0/katex.min.css">
     <script src="https://cdn.bootcss.com/highlight.js/9.12.0/highlight.min.js"></script>
@@ -26,7 +32,7 @@ OpenWRT校园网认证
       <div class="main-content">
         <div class="site-header">
   <a href="https://helloyanle.github.io/">
-  <img class="avatar" src="https://helloyanle.github.io//images/avatar.png?v=1584944579907" alt="">
+  <img class="avatar" src="https://helloyanle.github.io//images/avatar.png?v=1584964701224" alt="">
   </a>
   <h1 class="site-title">
     Lucas的小站（Github+Gridea）
@@ -79,14 +85,14 @@ OpenWRT校园网认证
         <div class="post-detail">
           <article class="post">
             <h2 class="post-title">
-              OpenWRT
+              树莓派4 + OpenWRT
             </h2>
             <div class="post-info">
               <span>
                 2020-03-16
               </span>
               <span>
-                1 min read
+                2 min read
               </span>
               
             </div>
@@ -98,6 +104,44 @@ OpenWRT校园网认证
 <pre><code>固件及软件再G:盘
 </code></pre>
 <h2 id="openwrt校园网认证"><a href="https://www.right.com.cn/forum/thread-958200-1-1.html">OpenWRT校园网认证</a></h2>
+<h1 id="搬瓦工vps配置">搬瓦工VPS配置</h1>
+<p><a href="https://www.stackcc.com/2018/11/08/ssr-vps/#h2">1.VPS配置</a><br>
+<a href="https://www.vultrcn.com/5.html">2.Google BBR加速</a><br>
+<a href="http://goldsudo.com/develop/shadowsocks/ssr%e6%9c%8d%e5%8a%a1%e7%ab%af%e9%85%8d%e7%bd%ae%e8%af%b4%e6%98%8e%e5%8c%85%e6%8b%ac%e5%a4%9a%e7%94%a8%e6%88%b7%e9%85%8d%e7%bd%ae">3.多用户配置</a><br>
+<a href="https://www.daniao.org/3983.html">VPS退款1</a><br>
+<a href="https://blog.csdn.net/oMoDao1/article/details/80742311">VPS退款2</a></p>
+<p><a href="https://free-ss.site/">免费SSR账号</a></p>
+<h1 id="树莓派">树莓派</h1>
+<h3 id="树莓派常见问题"><a href="http://www.raspigeek.com/index.php?c=read&amp;id=147&amp;page=1">树莓派常见问题</a></h3>
+<h2 id="树莓派上手配置">树莓派上手配置</h2>
+<h3 id="1通电只亮红灯绿灯不亮">1.通电只亮红灯，绿灯不亮</h3>
+<pre><code>    1.官网下载最新版系统
+    2.用DiskGenius彻底删除SD卡分区+格式化FAT32
+    3.刷入系统[（NOOBS和Raspbian的区别）](https://www.cnblogs.com/visionsl/p/8117265.html)
+</code></pre>
+<h3 id="2开机自动连接wifi需要能够在后台看到树莓派获得的ip地址">2.开机自动连接WIFI（需要能够在后台看到树莓派获得的IP地址）</h3>
+<pre><code>    1.在boot：中新建ssh无后缀文件
+    2.再新建一个名为wpa_supplicant.conf空白文件，并在其中加入以下代码:
+        country=GB
+        ctrl_interface=DIR=/var/run/wpa_supplicant GROUP=netdev
+        update_config=1
+        network={
+            ssid=&quot;WiFi名字，不删除引号,不能有中文&quot;
+            psk=&quot;WiFi密码，不删除引号&quot;
+            priority=将我替换成数字，数字越大代表优先级越高
+        }
+</code></pre>
+<h3 id="3使用putty登录树莓派">3.<a href="https://shumeipai.nxez.com/2013/09/07/using-putty-to-log-in-to-the-raspberry-pie.html">使用putty登录树莓派</a></h3>
+<pre><code>    默认用户名及密码：pi/raspberry
+</code></pre>
+<h3 id="4树莓派4b切换中科大源buster版本-更换pip为国内源">4.<a href="http://www.manongjc.com/detail/14-shvlgbilyiyeulp.html">树莓派4B切换中科大源(buster版本)</a><a href="https://www.pisugar.net/20190715/"> | 更换pip为国内源</a></h3>
+<h3 id="5使用win10自带的远程连接">5.<a href="https://blog.csdn.net/naibozhuan3744/article/details/84961838">使用Win10自带的远程连接</a></h3>
+<p><a href="https://www.vpser.net/manage/nano.html">nano编辑器使用方法</a></p>
+<h3 id="6-树莓派搭建opencv环境">6. 树莓派搭建OpenCV环境</h3>
+<p><a href="https://blog.csdn.net/s36147124/article/details/103654368">haha</a></p>
+<h3 id="7树莓派在opencv中调用csi摄像头">7.<a href="https://blog.csdn.net/Deiki/article/details/71123947">树莓派在OpenCV中调用CSI摄像头</a></h3>
+<h2 id="debian开启热点共享网络"><a href="https://leux.cn/doc/Debian%E4%B8%8A%E5%BC%80%E5%90%AF%E7%83%AD%E7%82%B9%E5%85%B1%E4%BA%AB%E7%BD%91%E7%BB%9C.html">Debian开启热点共享网络</a></h2>
+<h2 id="使用树莓派打造翻墙路由器"><a href="https://www.wonsikin.com/2016/12/02/%E4%BD%BF%E7%94%A8%E6%A0%91%E8%8E%93%E6%B4%BE%E6%89%93%E9%80%A0%E7%BF%BB%E5%A2%99%E8%B7%AF%E7%94%B1%E5%99%A8%EF%BC%9A%E4%BB%8E%E5%BC%80%E5%A7%8B%E5%88%B0%E6%94%BE%E5%BC%83/">使用树莓派打造翻墙路由器</a></h2>
 
               </div>
               <div class="toc-container">
@@ -107,6 +151,26 @@ OpenWRT校园网认证
 <li><a href="#%E6%A0%91%E8%8E%93%E6%B4%BE4openwrt%E5%9B%BA%E4%BB%B6">树莓派4OpenWRT固件</a></li>
 <li><a href="#youtube%E6%A0%91%E8%8E%93%E6%B4%BE4%E5%88%B7openwrt%E8%A7%86%E9%A2%91%E6%95%99%E7%A8%8B">Youtube树莓派4刷OpenWRT视频教程</a></li>
 <li><a href="#openwrt%E6%A0%A1%E5%9B%AD%E7%BD%91%E8%AE%A4%E8%AF%81">OpenWRT校园网认证</a></li>
+</ul>
+</li>
+<li><a href="#%E6%90%AC%E7%93%A6%E5%B7%A5vps%E9%85%8D%E7%BD%AE">搬瓦工VPS配置</a></li>
+<li><a href="#%E6%A0%91%E8%8E%93%E6%B4%BE">树莓派</a><br>
+*
+<ul>
+<li><a href="#%E6%A0%91%E8%8E%93%E6%B4%BE%E5%B8%B8%E8%A7%81%E9%97%AE%E9%A2%98">树莓派常见问题</a></li>
+<li><a href="#%E6%A0%91%E8%8E%93%E6%B4%BE%E4%B8%8A%E6%89%8B%E9%85%8D%E7%BD%AE">树莓派上手配置</a>
+<ul>
+<li><a href="#1%E9%80%9A%E7%94%B5%E5%8F%AA%E4%BA%AE%E7%BA%A2%E7%81%AF%E7%BB%BF%E7%81%AF%E4%B8%8D%E4%BA%AE">1.通电只亮红灯，绿灯不亮</a></li>
+<li><a href="#2%E5%BC%80%E6%9C%BA%E8%87%AA%E5%8A%A8%E8%BF%9E%E6%8E%A5wifi%E9%9C%80%E8%A6%81%E8%83%BD%E5%A4%9F%E5%9C%A8%E5%90%8E%E5%8F%B0%E7%9C%8B%E5%88%B0%E6%A0%91%E8%8E%93%E6%B4%BE%E8%8E%B7%E5%BE%97%E7%9A%84ip%E5%9C%B0%E5%9D%80">2.开机自动连接WIFI（需要能够在后台看到树莓派获得的IP地址）</a></li>
+<li><a href="#3%E4%BD%BF%E7%94%A8putty%E7%99%BB%E5%BD%95%E6%A0%91%E8%8E%93%E6%B4%BE">3.使用putty登录树莓派</a></li>
+<li><a href="#4%E6%A0%91%E8%8E%93%E6%B4%BE4b%E5%88%87%E6%8D%A2%E4%B8%AD%E7%A7%91%E5%A4%A7%E6%BA%90buster%E7%89%88%E6%9C%AC-%E6%9B%B4%E6%8D%A2pip%E4%B8%BA%E5%9B%BD%E5%86%85%E6%BA%90">4.树莓派4B切换中科大源(buster版本) | 更换pip为国内源</a></li>
+<li><a href="#5%E4%BD%BF%E7%94%A8win10%E8%87%AA%E5%B8%A6%E7%9A%84%E8%BF%9C%E7%A8%8B%E8%BF%9E%E6%8E%A5">5.使用Win10自带的远程连接</a></li>
+<li><a href="#6-%E6%A0%91%E8%8E%93%E6%B4%BE%E6%90%AD%E5%BB%BAopencv%E7%8E%AF%E5%A2%83">6. 树莓派搭建OpenCV环境</a></li>
+<li><a href="#7%E6%A0%91%E8%8E%93%E6%B4%BE%E5%9C%A8opencv%E4%B8%AD%E8%B0%83%E7%94%A8csi%E6%91%84%E5%83%8F%E5%A4%B4">7.树莓派在OpenCV中调用CSI摄像头</a></li>
+</ul>
+</li>
+<li><a href="#debian%E5%BC%80%E5%90%AF%E7%83%AD%E7%82%B9%E5%85%B1%E4%BA%AB%E7%BD%91%E7%BB%9C">Debian开启热点共享网络</a></li>
+<li><a href="#%E4%BD%BF%E7%94%A8%E6%A0%91%E8%8E%93%E6%B4%BE%E6%89%93%E9%80%A0%E7%BF%BB%E5%A2%99%E8%B7%AF%E7%94%B1%E5%99%A8">使用树莓派打造翻墙路由器</a></li>
 </ul>
 </li>
 </ul>
@@ -119,9 +183,9 @@ OpenWRT校园网认证
         
           <div class="next-post">
             <div class="next">下一篇</div>
-            <a href="https://helloyanle.github.io/post/shu-mei-pai-4/">
+            <a href="https://helloyanle.github.io/post/opencv/">
               <h3 class="post-title">
-                树莓派4
+                OpenCV（C++ &amp; Python &amp; CMake） + 算法 + 人工智能（神经网络）
               </h3>
             </a>
           </div>

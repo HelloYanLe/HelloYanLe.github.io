@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://helloyanle.github.io/</id>
     <title>Lucas的小站（Github+Gridea）</title>
-    <updated>2020-03-23T08:06:35.648Z</updated>
+    <updated>2020-03-23T11:58:26.627Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://helloyanle.github.io/"/>
     <link rel="self" href="https://helloyanle.github.io/atom.xml"/>
@@ -21,7 +21,7 @@
 ]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[OpenWRT]]></title>
+        <title type="html"><![CDATA[树莓派4 + OpenWRT]]></title>
         <id>https://helloyanle.github.io/post/openwrt/</id>
         <link href="https://helloyanle.github.io/post/openwrt/">
         </link>
@@ -31,15 +31,15 @@
 <pre><code>固件及软件再G:盘
 </code></pre>
 <h2 id="openwrt校园网认证"><a href="https://www.right.com.cn/forum/thread-958200-1-1.html">OpenWRT校园网认证</a></h2>
-]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[树莓派4]]></title>
-        <id>https://helloyanle.github.io/post/shu-mei-pai-4/</id>
-        <link href="https://helloyanle.github.io/post/shu-mei-pai-4/">
-        </link>
-        <updated>2020-03-16T06:30:49.000Z</updated>
-        <content type="html"><![CDATA[<h3 id="树莓派常见问题"><a href="http://www.raspigeek.com/index.php?c=read&amp;id=147&amp;page=1">树莓派常见问题</a></h3>
+<h1 id="搬瓦工vps配置">搬瓦工VPS配置</h1>
+<p><a href="https://www.stackcc.com/2018/11/08/ssr-vps/#h2">1.VPS配置</a><br>
+<a href="https://www.vultrcn.com/5.html">2.Google BBR加速</a><br>
+<a href="http://goldsudo.com/develop/shadowsocks/ssr%e6%9c%8d%e5%8a%a1%e7%ab%af%e9%85%8d%e7%bd%ae%e8%af%b4%e6%98%8e%e5%8c%85%e6%8b%ac%e5%a4%9a%e7%94%a8%e6%88%b7%e9%85%8d%e7%bd%ae">3.多用户配置</a><br>
+<a href="https://www.daniao.org/3983.html">VPS退款1</a><br>
+<a href="https://blog.csdn.net/oMoDao1/article/details/80742311">VPS退款2</a></p>
+<p><a href="https://free-ss.site/">免费SSR账号</a></p>
+<h1 id="树莓派">树莓派</h1>
+<h3 id="树莓派常见问题"><a href="http://www.raspigeek.com/index.php?c=read&amp;id=147&amp;page=1">树莓派常见问题</a></h3>
 <h2 id="树莓派上手配置">树莓派上手配置</h2>
 <h3 id="1通电只亮红灯绿灯不亮">1.通电只亮红灯，绿灯不亮</h3>
 <pre><code>    1.官网下载最新版系统
@@ -72,16 +72,7 @@
 ]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[算法]]></title>
-        <id>https://helloyanle.github.io/post/suan-fa/</id>
-        <link href="https://helloyanle.github.io/post/suan-fa/">
-        </link>
-        <updated>2020-03-14T08:38:13.000Z</updated>
-        <content type="html"><![CDATA[<p>扑克牌、跑胡子算法</p>
-]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[OpenCV]]></title>
+        <title type="html"><![CDATA[OpenCV（C++ & Python & CMake） + 算法 + 人工智能（神经网络）]]></title>
         <id>https://helloyanle.github.io/post/opencv/</id>
         <link href="https://helloyanle.github.io/post/opencv/">
         </link>
@@ -193,6 +184,9 @@
 <figure data-type="image" tabindex="2"><img src="https://helloyanle.github.io//post-images/1583485818566.jpg" alt="" loading="lazy"></figure>
 <h2 id="write-once-run-everywhere">“Write once, run everywhere”</h2>
 <p><a href="https://www.jianshu.com/p/6e6569ba2237">链接</a></p>
+<h1 id="算法">算法</h1>
+<p>扑克牌、跑胡子算法</p>
+<h1 id="人工智能神经网络">人工智能（神经网络）</h1>
 ]]></content>
     </entry>
     <entry>
@@ -303,6 +297,34 @@
 <p>要进行模拟/数字电路的精确、细微仿真使用Multisim； 要进行电路板PCB设计使用PROTEL； 编写程序使用Keil C51;</p>
 <p>require.async（［‘wkcommon:widget/ui/lib/sio/sio.js’］， function（sio） { var url = ‘https://cpro.baidustatic.com/cpro/ui/c.js’; sio.callByBrowser（ url， function （） { BAIDU_CLB_fillSlotAsync（‘u2845605’，‘cpro_u2845605’）; } ）; }）;</p>
 <p>要进行单片机仿真使用Proteus，仿真51系列单片机可以使用Keil C与Proteus联调（就是在Keil中运行程序时Proteus即可运行硬件仿真）</p>
+]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Multisim导出实验数据到Excel]]></title>
+        <id>https://helloyanle.github.io/post/multisim-dao-chu-shi-yan-shu-ju-dao-excel/</id>
+        <link href="https://helloyanle.github.io/post/multisim-dao-chu-shi-yan-shu-ju-dao-excel/">
+        </link>
+        <updated>2020-03-05T08:45:25.000Z</updated>
+        <summary type="html"><![CDATA[<h1 id="解决路径必应谷歌问同学">解决路径：必应+谷歌+问同学</h1>
+]]></summary>
+        <content type="html"><![CDATA[<h1 id="解决路径必应谷歌问同学">解决路径：必应+谷歌+问同学</h1>
+<!-- more -->
+<h2 id="问同学multisim仿真软件的使用">问同学：<a href="https://wenku.baidu.com/view/95e95f204b35eefdc8d3333b.html">MULTISIM仿真软件的使用</a></h2>
+<ul>
+<li>
+<p>Exporting from Grapher to Excel You can export your simulation results to Excel, to use the data for further processing in a spreadsheet.<br>
+Note  This function is only available if you haveExcelinstalled on your computer.Complete the following steps to export simulation results to anExcelspreadsheet:</p>
+<p>SelectView»Grapher.<br>
+TheGrapherappears, showing the results of your simulation and/or analysis.</p>
+<p>SelectTools»Export toExcel.<br>
+TheSelect Tracesdialog box appears. The contents of this dialog box change depending on the traces that are found in the tab you have selected in theGrapher.<br>
+Note  You must select onegraph. If thetabis selected, this command will be disabled.</p>
+<p>Use the checkboxes to select the traces you wish to export to Excel and click OK.<br>
+Tip  Place cursors on the graph to limit the exported data to the data that is located between the cursors.</p>
+<p>A newExcelspreadsheet is created, with data from the x coordinates in column one and data from the y coordinates in column two.</p>
+</li>
+</ul>
+<h2 id="binggoogle">bing+Google：</h2>
 ]]></content>
     </entry>
 </feed>
