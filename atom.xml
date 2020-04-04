@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://helloyanle.github.io/</id>
     <title>Lucas的小站（Github+Gridea）</title>
-    <updated>2020-03-23T11:58:26.627Z</updated>
+    <updated>2020-04-04T03:03:36.522Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://helloyanle.github.io/"/>
     <link rel="self" href="https://helloyanle.github.io/atom.xml"/>
@@ -10,6 +10,15 @@
     <logo>https://helloyanle.github.io/images/avatar.png</logo>
     <icon>https://helloyanle.github.io/favicon.ico</icon>
     <rights>All rights reserved 2020, Lucas的小站（Github+Gridea）</rights>
+    <entry>
+        <title type="html"><![CDATA[Arduino+门禁]]></title>
+        <id>https://helloyanle.github.io/post/arduinomen-jin/</id>
+        <link href="https://helloyanle.github.io/post/arduinomen-jin/">
+        </link>
+        <updated>2020-04-04T03:02:37.000Z</updated>
+        <content type="html"><![CDATA[<p><a href="https://www.arduino.cn/thread-22293-1-1.html">Arduino库的编写与添加</a></p>
+]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[LaTeX，Markdown，TeXmacs]]></title>
         <id>https://helloyanle.github.io/post/latexmarkdowntexmacs/</id>
@@ -185,7 +194,9 @@
 <h2 id="write-once-run-everywhere">“Write once, run everywhere”</h2>
 <p><a href="https://www.jianshu.com/p/6e6569ba2237">链接</a></p>
 <h1 id="算法">算法</h1>
-<p>扑克牌、跑胡子算法</p>
+<p><a href="http://jartto.wang/2019/04/07/learn-algorithm/">算法学习思路 - - 一个不知道啥语言写的</a><br>
+<a href="https://www.jianshu.com/nb/29241420">写给媳妇儿的算法 - - Python写的</a><br>
+扑克牌、跑胡子算法</p>
 <h1 id="人工智能神经网络">人工智能（神经网络）</h1>
 ]]></content>
     </entry>
