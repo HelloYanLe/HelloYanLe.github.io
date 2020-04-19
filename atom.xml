@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://helloyanle.github.io/</id>
     <title>Lucas的小站（Github+Gridea）</title>
-    <updated>2020-04-04T03:03:36.522Z</updated>
+    <updated>2020-04-19T08:48:42.141Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://helloyanle.github.io/"/>
     <link rel="self" href="https://helloyanle.github.io/atom.xml"/>
@@ -11,12 +11,26 @@
     <icon>https://helloyanle.github.io/favicon.ico</icon>
     <rights>All rights reserved 2020, Lucas的小站（Github+Gridea）</rights>
     <entry>
+        <title type="html"><![CDATA[美食乐]]></title>
+        <id>https://helloyanle.github.io/post/mei-shi-le/</id>
+        <link href="https://helloyanle.github.io/post/mei-shi-le/">
+        </link>
+        <updated>2020-04-19T05:34:31.000Z</updated>
+        <content type="html"><![CDATA[<h2 id="珍珠奶茶">珍珠奶茶</h2>
+<pre><code>因为疫情在家我已经做了四次珍珠奶茶了
+第一次看了B站黑猫UP的视频，虽然木薯粉团成型了，但是有点儿粘手套，我还加我爸一起来搓珍珠，但是煮的时候。一下锅便化作一团粑粑，煮出来就成了木薯粑粑，还是一整块的那种😂（因为下锅前锅内水温不够，要完全沸腾才能下，且如果要下大量的话，还必须分批次，等温度再次上来的时候才能下），吃起来还有点夹生（煮过15分钟后需再焖十分钟）。
+第二次我又看遍了B站和YouTube所有关于珍奶的影片，
+</code></pre>
+]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Arduino+门禁]]></title>
         <id>https://helloyanle.github.io/post/arduinomen-jin/</id>
         <link href="https://helloyanle.github.io/post/arduinomen-jin/">
         </link>
         <updated>2020-04-04T03:02:37.000Z</updated>
-        <content type="html"><![CDATA[<p><a href="https://www.arduino.cn/thread-22293-1-1.html">Arduino库的编写与添加</a></p>
+        <content type="html"><![CDATA[<p><a href="https://www.arduino.cn/thread-22293-1-1.html">Arduino库的编写与添加</a><br>
+github上加星标的mtobeiyf / access-system</p>
 ]]></content>
     </entry>
     <entry>
@@ -308,34 +322,6 @@
 <p>要进行模拟/数字电路的精确、细微仿真使用Multisim； 要进行电路板PCB设计使用PROTEL； 编写程序使用Keil C51;</p>
 <p>require.async（［‘wkcommon:widget/ui/lib/sio/sio.js’］， function（sio） { var url = ‘https://cpro.baidustatic.com/cpro/ui/c.js’; sio.callByBrowser（ url， function （） { BAIDU_CLB_fillSlotAsync（‘u2845605’，‘cpro_u2845605’）; } ）; }）;</p>
 <p>要进行单片机仿真使用Proteus，仿真51系列单片机可以使用Keil C与Proteus联调（就是在Keil中运行程序时Proteus即可运行硬件仿真）</p>
-]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Multisim导出实验数据到Excel]]></title>
-        <id>https://helloyanle.github.io/post/multisim-dao-chu-shi-yan-shu-ju-dao-excel/</id>
-        <link href="https://helloyanle.github.io/post/multisim-dao-chu-shi-yan-shu-ju-dao-excel/">
-        </link>
-        <updated>2020-03-05T08:45:25.000Z</updated>
-        <summary type="html"><![CDATA[<h1 id="解决路径必应谷歌问同学">解决路径：必应+谷歌+问同学</h1>
-]]></summary>
-        <content type="html"><![CDATA[<h1 id="解决路径必应谷歌问同学">解决路径：必应+谷歌+问同学</h1>
-<!-- more -->
-<h2 id="问同学multisim仿真软件的使用">问同学：<a href="https://wenku.baidu.com/view/95e95f204b35eefdc8d3333b.html">MULTISIM仿真软件的使用</a></h2>
-<ul>
-<li>
-<p>Exporting from Grapher to Excel You can export your simulation results to Excel, to use the data for further processing in a spreadsheet.<br>
-Note  This function is only available if you haveExcelinstalled on your computer.Complete the following steps to export simulation results to anExcelspreadsheet:</p>
-<p>SelectView»Grapher.<br>
-TheGrapherappears, showing the results of your simulation and/or analysis.</p>
-<p>SelectTools»Export toExcel.<br>
-TheSelect Tracesdialog box appears. The contents of this dialog box change depending on the traces that are found in the tab you have selected in theGrapher.<br>
-Note  You must select onegraph. If thetabis selected, this command will be disabled.</p>
-<p>Use the checkboxes to select the traces you wish to export to Excel and click OK.<br>
-Tip  Place cursors on the graph to limit the exported data to the data that is located between the cursors.</p>
-<p>A newExcelspreadsheet is created, with data from the x coordinates in column one and data from the y coordinates in column two.</p>
-</li>
-</ul>
-<h2 id="binggoogle">bing+Google：</h2>
 ]]></content>
     </entry>
 </feed>
