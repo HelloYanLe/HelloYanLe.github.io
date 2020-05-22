@@ -2,11 +2,11 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://helloyanle.github.io/</id>
     <title>Lucas的小站（Github+Gridea）</title>
-    <updated>2020-05-21T05:00:45.228Z</updated>
+    <updated>2020-05-22T12:40:57.418Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://helloyanle.github.io/"/>
     <link rel="self" href="https://helloyanle.github.io/atom.xml"/>
-    <subtitle>不要成为语言的帮助文档，正确打开方式应是在用的过程中学习</subtitle>
+    <subtitle>不要成为工具的使用说明，正确打开方式应是在实践中学习</subtitle>
     <logo>https://helloyanle.github.io/images/avatar.png</logo>
     <icon>https://helloyanle.github.io/favicon.ico</icon>
     <rights>All rights reserved 2020, Lucas的小站（Github+Gridea）</rights>
@@ -34,16 +34,6 @@ github上加星标的mtobeiyf / access-system</p>
 ]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[LaTeX，Markdown，TeXmacs]]></title>
-        <id>https://helloyanle.github.io/post/latexmarkdowntexmacs/</id>
-        <link href="https://helloyanle.github.io/post/latexmarkdowntexmacs/">
-        </link>
-        <updated>2020-03-22T05:37:04.000Z</updated>
-        <content type="html"><![CDATA[<p><a href="https://www.jianshu.com/p/37583edb9546">LaTex，Markdown和TeXmacs：如何选择写作的正确姿势</a></p>
-<p><a href="https://www.jianshu.com/p/3e842d67ada2">LaTeX零基础入门教程</a></p>
-]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[树莓派4 + OpenWRT]]></title>
         <id>https://helloyanle.github.io/post/openwrt/</id>
         <link href="https://helloyanle.github.io/post/openwrt/">
@@ -54,6 +44,7 @@ github上加星标的mtobeiyf / access-system</p>
 <pre><code>固件及软件再G:盘
 </code></pre>
 <h2 id="openwrt校园网认证"><a href="https://www.right.com.cn/forum/thread-958200-1-1.html">OpenWRT校园网认证</a></h2>
+<h1 id="猛然发现shell可以帮我解决每次重装系统那麻烦的配置">猛然发现Shell可以帮我解决每次重装系统那麻烦的配置！！！</h1>
 <h1 id="搬瓦工vps配置">搬瓦工VPS配置</h1>
 <p><a href="https://www.stackcc.com/2018/11/08/ssr-vps/#h2">1.VPS配置</a><br>
 <a href="https://www.vultrcn.com/5.html">2.Google BBR加速</a><br>
@@ -254,6 +245,8 @@ github上加星标的mtobeiyf / access-system</p>
         <content type="html"><![CDATA[<p><a href="https://www.stepfpga.com/doc/fpga_start">小脚丫STEP FPGA开源社区</a></p>
 <p><a href="https://hdlbits.01xz.net/wiki/Wire#">像菜鸟教程一样的硬件学习网站 - - HDLBits</a><br>
 <a href="https://zhuanlan.zhihu.com/c_1131528588117385216">HDLBits中文教程 - - 知乎</a></p>
+<p><a href="https://www.jianshu.com/p/37583edb9546">LaTex，Markdown和TeXmacs：如何选择写作的正确姿势</a></p>
+<p><a href="https://www.jianshu.com/p/3e842d67ada2">LaTeX零基础入门教程</a></p>
 ]]></content>
     </entry>
     <entry>
@@ -311,7 +304,7 @@ github上加星标的mtobeiyf / access-system</p>
 ]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Multisim,PROTEL和Proteus的区别]]></title>
+        <title type="html"><![CDATA[Multisim,PROTEL和Proteus]]></title>
         <id>https://helloyanle.github.io/post/multisimprotel-he-proteus-de-qu-bie/</id>
         <link href="https://helloyanle.github.io/post/multisimprotel-he-proteus-de-qu-bie/">
         </link>
@@ -343,6 +336,22 @@ github上加星标的mtobeiyf / access-system</p>
 <p>要进行模拟/数字电路的精确、细微仿真使用Multisim； 要进行电路板PCB设计使用PROTEL； 编写程序使用Keil C51;</p>
 <p>require.async（［‘wkcommon:widget/ui/lib/sio/sio.js’］， function（sio） { var url = ‘https://cpro.baidustatic.com/cpro/ui/c.js’; sio.callByBrowser（ url， function （） { BAIDU_CLB_fillSlotAsync（‘u2845605’，‘cpro_u2845605’）; } ）; }）;</p>
 <p>要进行单片机仿真使用Proteus，仿真51系列单片机可以使用Keil C与Proteus联调（就是在Keil中运行程序时Proteus即可运行硬件仿真）</p>
+<h1 id="multisim导出实验数据到excel">Multisim导出实验数据到Excel</h1>
+<h2 id="问同学multisim仿真软件的使用">问同学：<a href="https://wenku.baidu.com/view/95e95f204b35eefdc8d3333b.html">MULTISIM仿真软件的使用</a></h2>
+<ul>
+<li>
+<p>Exporting from Grapher to Excel You can export your simulation results to Excel, to use the data for further processing in a spreadsheet.<br>
+Note  This function is only available if you haveExcelinstalled on your computer.Complete the following steps to export simulation results to anExcelspreadsheet:</p>
+<p>SelectView»Grapher.<br>
+TheGrapherappears, showing the results of your simulation and/or analysis.</p>
+<p>SelectTools»Export toExcel.<br>
+TheSelect Tracesdialog box appears. The contents of this dialog box change depending on the traces that are found in the tab you have selected in theGrapher.<br>
+Note  You must select onegraph. If thetabis selected, this command will be disabled.</p>
+<p>Use the checkboxes to select the traces you wish to export to Excel and click OK.<br>
+Tip  Place cursors on the graph to limit the exported data to the data that is located between the cursors.</p>
+<p>A newExcelspreadsheet is created, with data from the x coordinates in column one and data from the y coordinates in column two.</p>
+</li>
+</ul>
 ]]></content>
     </entry>
 </feed>
